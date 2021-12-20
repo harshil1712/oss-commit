@@ -37,4 +37,4 @@ OSS Commit is built using [n8n](https://n8n.io?utm=ref_oss_commit_harshil), [Sup
 You can always DM me on [Twitter](https://twitter.com/harshil1712) or open a new Discussion topic.
 
 ### I love your work. How can I support you?
-I am glad that you enjoy my work. You can [sponsor](https://github.com/sponsors/harshil1712) me on GitHub to keep me get going!
+I am glad that you enjoy my work. You can [sponsor](https://github.com/sponsors/harshil1712) me on GitHub to keep me going!
