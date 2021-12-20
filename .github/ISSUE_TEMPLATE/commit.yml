@@ -1,0 +1,39 @@
+name: Contribution Goals
+description: Register for OSS Commits
+title: "[Commit] "
+labels: ["goals"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to contirbute to OSS. Fill out this form to register for OSS Commit!
+  - type: input
+    id: twitter
+    attributes:
+      label: Twitter Handler
+      description: What is your Twitter handler?
+      placeholder: ex. harshil1712
+    validations:
+      required: false
+  - type: input
+    id: commit_goals
+    attributes:
+      label: Commit Goals
+      description: What are your goals for 2022? Not sure, check your 2021 stats with [GitHub Wrap](https://lowcode.land/ghwrap/)
+      placeholder: '1997'
+    validations:
+      required: true
+  - type: input
+    id: pr_goals
+    attributes:
+      label: Pull Request Goals
+      description: How many PRs you plan to contribute in 2022?
+      placeholder: '12'
+    validations:
+      required: false
+  - type: input
+    id: issue_goals
+    attributes:
+      label: Issue Goals
+      description: You can help projects by reporting bugs or suggesting new features. Planning to contribute there? Tell us the number.
+      placeholder: '17'
