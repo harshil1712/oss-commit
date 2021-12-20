@@ -6,7 +6,7 @@ Track your open-source contributions
 2022 is about to begin, and most of us have already started planning our goals. OSS Commit is a project to help you achieve your open-source contribution goals.
 
 ## How does it work?
-1. Create a new issue.
+1. Create a [new issue](https://github.com/harshil1712/oss-commit/issues/new?assignees=&labels=goals&template=commit.yml&title=%5BCommit%5D+).
 2. Share your contribution goals by completing the issue template.
 
 **Note:** Don't remove `[Commit]` from the Issue title.
