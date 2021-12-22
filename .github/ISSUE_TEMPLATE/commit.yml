@@ -1,6 +1,6 @@
 name: Contribution Goals
 description: Register for OSS Commits
-title: "[Commit] "
+title: "[Commit] <YOUR_NAME>"
 labels: ["goals"]
 body:
   - type: markdown
