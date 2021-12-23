@@ -4,6 +4,9 @@ Track your open-source contributions
 </p>
 
 2022 is about to begin, and most of us have already started planning our goals. OSS Commit is a project to help you achieve your open-source contribution goals.
+<p align="center">
+  <a href="https://www.producthunt.com/posts/oss-commit?utm_source=badge-review&utm_medium=badge&utm_souce=badge-oss-commit#discussion-body" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/review.svg?post_id=324022&theme=dark" alt="OSS Commit - Track your open-source contributions | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
+</p>
 
 ## How does it work?
 1. Create a [new issue](https://github.com/harshil1712/oss-commit/issues/new?assignees=&labels=goals&template=commit.yml&title=%5BCommit%5D+).
